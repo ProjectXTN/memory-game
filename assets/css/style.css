@@ -7,7 +7,8 @@
 body {
     height: 100vh;
     display: flex;
-    background-color: darkgray;
+    background: url(/Jogo\ de\ Cartas/img/shenlong.png);
+    background-size: cover;
 }
 
 
